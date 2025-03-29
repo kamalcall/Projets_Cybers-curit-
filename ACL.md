@@ -1,6 +1,6 @@
 <h1>Configurer les ACL étendues</h1>
 
-<br/><br/><br/><br/>**Rédigé par :** Kamal , ESSANOUSSI  
+**Rédigé par :** Kamal , ESSANOUSSI<br/><br/><br/>  
 
 Configurer les ACL étendues
 
