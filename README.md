@@ -21,4 +21,5 @@ La liste des projets et laboratoires que j'ai réalisés dans le cadre de mon pr
 Découvrez les projets et les laboratoires réalisés.
 
 **Lors de l'affichage du message "View raw", et pour un bon affichage avec des images, merci de les télécharger avant de les prévisualiser dans Visual Studio.
-Preview.png
+
+![Preview](./Preview.png)
